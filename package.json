@@ -1,0 +1,16 @@
+{
+  "name": "eblastscrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "reset": "rm ../token.json"
+  },
+  "author": "DThompson55",
+  "license": "ISC",
+  "dependencies": {
+    "node-html-parser": "^6.1.13",
+    "uusecommons": "file:../uuseCommons"
+  }
+}
