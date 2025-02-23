@@ -1,14 +1,12 @@
-# Ignore all `.log` files
-*.log
 
 # Ignore `node_modules` folder (common for JS projects)
-node_modules/
-
-# Ignore environment files
-.env
-
 # Ignore all `.DS_Store` (macOS system files)
-.DS_Store
-
+# Ignore all `.log` files
+# Ignore environment files
 # Ignore specific files
+*.log
+.DS_Store
+.env
+node_modules/
 secret-config.json
+suds*
