@@ -1,0 +1,168 @@
+
+> eblastscrape@1.0.0 start
+> node src/index.js --date=2025/02/19
+
+Base Path: /Users/danielthompson/Projects
+Credentials Path: /Users/danielthompson/Projects/credentials.json
+Token Path: /Users/danielthompson/Projects/token.json
+uuseCommons
+NOT UPDATING
+eBlast CMS is Import433
+Event CMS is Import857
+Looking for emails on date: Wednesday 2025-02-19T05:00:00.000Z eBlast eblast@uuse.ccsend.com
+Loaded existing credentials.
+SUBJECT eBlast Day 2025-02-19T05:00:00.000Z 1739941200 1740027600
+Loaded existing credentials.
+Email Subject Line: UUSE Weekly eBlast
+1 1 1 Type PARAGRAPH nodes Can't view this email? Click here to view as a web page.
+2 1 1 Type HEADING nodes Weekly News
+2 2 1 Type PARAGRAPH nodes February 19, 2025
+3 1 1 Type PARAGRAPH nodes Welcome to Unitarian Universalist Society East
+3 1 2 Type PARAGRAPH nodes Email our office
+4 1 1 Type HEADING nodes Sunday Service: "Inclusion and Exclusion" 
+4 2 1 Type PARAGRAPH nodes Learn how inclusion and exclusion can impact you
+4 3 1 Type HEADING nodes Services at 9:00 and 11:00 A.M.
+4 3 2 Type HEADING nodes Sunday, February 23, 2025
+4 3 3 Type PARAGRAPH nodes Gathering music starts at 8:55 and 10:55 A.M.
+4 3 4 Type PARAGRAPH nodes []
+4 3 5 Type PARAGRAPH nodes Join the virtual service at 11:00 A.M. via our Zoom link:
+4 3 6 Type PARAGRAPH nodes Contact the Office for Zoom Link
+4 3 7 Type PARAGRAPH nodes Or join by phone. Call 1-860-646-5151 Meeting ID 357 815 420#. 
+4 3 8 Type PARAGRAPH nodes []
+4 3 9 Type PARAGRAPH nodes In case you missed it:
+4 3 10 Type PARAGRAPH nodes Click 
+4 4 1 Type PARAGRAPH nodes []
+5 1 1 Type HEADING nodes Your Rights in Your Pocket
+5 1 2 Type PARAGRAPH nodes A message from the Social Justice/Anti-Oppression Committee
+5 2 1 Type PARAGRAPH nodes All people in the United States have certain rights and protections under the Constitution. Quick-reference pocket cards from the Immigration Legal Resource Center (ILRC) help people assert their rights and defend themselves in many situations. The ILRC cards are available in the meetinghouse lobby in English, Spanish, and Portuguese versions. See 
+6 1 1 Type HEADING nodes GHIAA: Initiative to Combat Racial and Religious Hate
+6 2 1 Type PARAGRAPH nodes "Broadening Understanding, Deepening Solidarity" (BUDS) is 
+6 2 2 Type PARAGRAPH nodes []
+6 2 3 Type PARAGRAPH nodes The BUDS spring series will be held on Tuesday evenings, 6:30-8:30 pm, February 25, April 1, May 6, and June 10, at Hartford International University for Religion and Peace, 77 Sherman St, Hartford. 
+6 2 4 Type PARAGRAPH nodes []
+6 2 5 Type PARAGRAPH nodes Further information and registration is 
+7 1 1 Type HEADING nodes Legislative Update
+7 1 2 Type PARAGRAPH nodes  from the Social Justice/Anti-Oppression Committee
+7 2 1 Type PARAGRAPH nodes The Connecticut legislative session is in full gear. The Social Justice/Anti-Oppression Committee is working with GHIAA on several issues:
+7 2 2 Type BULLETED_LIST nodes [
+  { type: 'LIST_ITEM', id: 'LkGTK', nodes: [ [Object] ] },
+  { type: 'LIST_ITEM', id: 'fb7Fs', nodes: [ [Object] ] }
+]
+7 2 3 Type PARAGRAPH nodes We also continue to support the HUSKY for Immigrants Campaign which is seeking to expand access to HUSKY health insurance for youth up to age 26 and for those aged 65 and older, regardless of immigration status. 
+7 2 4 Type PARAGRAPH nodes []
+7 2 5 Type PARAGRAPH nodes There will be opportunities to contact legislators and submit written and oral testimonies at public hearings in late February and March; SJ/AO will be tabling after Sunday services as soon as we have specific details. For more information on each of these issues, go to the Social Justice page on the UUSE website. 
+8 1 1 Type HEADING nodes Calling All Photographers, Painters, and Poets
+8 2 1 Type PARAGRAPH nodes A Spring exhibit
+8 2 2 Type PARAGRAPH nodes Questions? Call Carolyn Emerson at 860-646-5151 
+9 1 1 Type HEADING nodes Could Someone Use a Blood Glucose Monitoring System?
+9 2 1 Type PARAGRAPH nodes If you have diabetes and want to monitor your blood glucose, we have a complete kit here in the office. It had belonged to Al Benford but was never used. If you're in need of a blood glucose monitoring system and want this one, please contact 
+10 1 1 Type HEADING nodes Could Someone Use a Case or Two of Ensure?
+10 2 1 Type PARAGRAPH nodes We also have two cases (48 bottles total) of the nutritional supplement, Ensure - mixed berry flavor. If you or someone you know would benefit from these, please contact 
+11 1 1 Type HEADING nodes Pastoral Friends
+11 2 1 Type PARAGRAPH nodes The Pastoral Friends Committee has a rotating chair throughout the year. Should you need pastoral care during the month of February, please contact 
+12 1 1 Type HEADING nodes High School Youth Group Soup Fundraiser!
+12 1 2 Type PARAGRAPH nodes []
+12 1 3 Type PARAGRAPH nodes The High School Youth Group is holding a soup fundraiser to benefit UUSE and the HSYG's activities. 
+12 1 4 Type PARAGRAPH nodes []
+12 1 5 Type PARAGRAPH nodes Options are:
+12 1 6 Type PARAGRAPH nodes Vegan and Gluten-Free: Chickpea Soup with Rosemary & Garlic
+12 1 7 Type PARAGRAPH nodes Vegetarian: Broccoli Cheddar soup
+12 1 8 Type PARAGRAPH nodes Meat: Potato Bacon soup
+12 1 9 Type PARAGRAPH nodes []
+12 1 10 Type PARAGRAPH nodes To place an order, please contact Michelle Spadaccini at 
+12 1 11 Type PARAGRAPH nodes []
+12 1 12 Type PARAGRAPH nodes Please contact 
+13 1 1 Type HEADING nodes 2025 Midwinter Seed Swap!
+13 1 2 Type PARAGRAPH nodes []
+13 1 3 Type PARAGRAPH nodes On Saturday, 
+13 1 4 Type PARAGRAPH nodes []
+13 1 5 Type PARAGRAPH nodes Register in advance for this meeting:
+13 1 6 Type PARAGRAPH nodes https://us06web.zoom.us/meeting/register/9ORIEZZaQB2o-vH6AsShOQ
+13 1 7 Type PARAGRAPH nodes []
+13 1 8 Type PARAGRAPH nodes After registering, you will receive a confirmation email containing information about joining the meeting.
+13 1 9 Type PARAGRAPH nodes []
+14 1 1 Type HEADING nodes Death Cafe
+14 1 2 Type PARAGRAPH nodes []
+14 1 3 Type PARAGRAPH nodes UUSE's next Death Cafe will be held at the meeting house on Tuesday, 
+15 1 1 Type HEADING nodes Ford Family Concert - Music for All Ages
+15 1 2 Type PARAGRAPH nodes []
+15 1 3 Type PARAGRAPH nodes Join us Friday, 
+16 1 1 Type HEADING nodes Support Husky for Immigrants Campaign
+16 1 2 Type PARAGRAPH nodes []
+16 1 3 Type PARAGRAPH nodes The Husky for Immigrants Campaign needs YOU -- yes YOU!!
+16 1 4 Type BULLETED_LIST nodes [
+  { type: 'LIST_ITEM', id: 'zocK2', nodes: [ [Object], [Object] ] },
+  { type: 'LIST_ITEM', id: 'Twt4q', nodes: [ [Object] ] },
+  {
+    type: 'LIST_ITEM',
+    id: 'Atv21',
+    nodes: [ [Object], [Object], [Object] ]
+  },
+  { type: 'LIST_ITEM', id: 'TUaJJ', nodes: [ [Object] ] }
+]
+16 1 5 Type PARAGRAPH nodes []
+16 1 6 Type PARAGRAPH nodes If you believe healthcare is a human right, here's an opportunity to advocate for your beliefs!
+16 1 7 Type PARAGRAPH nodes ﻿
+17 1 1 Type HEADING nodes NLDC Annual Recruitment
+17 1 2 Type PARAGRAPH nodes []
+17 1 3 Type PARAGRAPH nodes The Nominating and Leadership Development Committee (NLDC) is starting our annual recruitment effort for the July 2025 - June 2026 term. On 
+17 1 4 Type PARAGRAPH nodes []
+17 1 5 Type PARAGRAPH nodes What we have learned from our conversations with chairs and members serving on UUSE committees is that congregants rarely reach out on their own to volunteer. However, when someone takes the initiative to reach out to an individual and discusses committee opportunities, then congregants are more likely to be open to serve. 
+17 1 6 Type PARAGRAPH nodes []
+17 1 7 Type PARAGRAPH nodes It is our hope that these recruiting sessions will provide an opportunity to reach out to more congregants and extend a personal invitation to serve the UUSE community. Please join us and consider volunteering for a committee.
+17 1 8 Type PARAGRAPH nodes []
+17 1 9 Type PARAGRAPH nodes This congregation cannot continue to sustain itself without volunteers. We desperately need more volunteers, and we need them now. Please consider making time in your busy schedules usually just a few hours a month to give back to a community that enriches our lives and community in so many ways.
+17 1 10 Type PARAGRAPH nodes []
+17 1 11 Type PARAGRAPH nodes We hope to see you there, but if you can't make it, please reach out to one of the NLDC members. Our contact information will be on the bulletin board in the program room soon. 
+17 1 12 Type PARAGRAPH nodes []
+17 1 13 Type PARAGRAPH nodes Sincerely, the Nominating and Leadership Development Committee
+18 1 1 Type HEADING nodes Holiday Choir!
+18 1 2 Type PARAGRAPH nodes []
+18 1 3 Type PARAGRAPH nodes Do you love to sing? Do you love to have fun? You don't have to audition. If you can sing in your car, you can sing with the UUSE Choir! Weekly rehearsals start on Wednesday, 
+19 1 1 Type HEADING nodes Ongoing Happenings at UUSE!
+19 1 2 Type PARAGRAPH nodes There’s Always Something Good Going On
+19 1 3 Type BULLETED_LIST nodes [
+  { type: 'LIST_ITEM', id: 'WPZtZ', nodes: [ [Object], [Object] ] },
+  { type: 'LIST_ITEM', id: 'fcCT4', nodes: [ [Object] ] },
+  { type: 'LIST_ITEM', id: 'CX0jo', nodes: [ [Object] ] },
+  { type: 'LIST_ITEM', id: 'R7VlE', nodes: [ [Object], [Object] ] },
+  { type: 'LIST_ITEM', id: 'fdJHn', nodes: [ [Object], [Object] ] },
+  { type: 'LIST_ITEM', id: '1Mbce', nodes: [ [Object], [Object] ] },
+  {
+    type: 'LIST_ITEM',
+    id: 'g5pEm',
+    nodes: [ [Object], [Object], [Object], [Object], [Object] ]
+  },
+  { type: 'LIST_ITEM', id: 'nB8nA', nodes: [ [Object], [Object] ] },
+  { type: 'LIST_ITEM', id: 'L4YkF', nodes: [ [Object], [Object] ] },
+  { type: 'LIST_ITEM', id: '9Dsj4', nodes: [ [Object], [Object] ] },
+  { type: 'LIST_ITEM', id: 'Sj4tv', nodes: [ [Object], [Object] ] },
+  { type: 'LIST_ITEM', id: 'HmPo5', nodes: [ [Object], [Object] ] },
+  { type: 'LIST_ITEM', id: '3n3c7', nodes: [ [Object], [Object] ] }
+]
+20 1 1 Type HEADING nodes Our Mission
+20 1 2 Type PARAGRAPH nodes ﻿
+21 1 1 Type PARAGRAPH nodes UUSE Links and Information
+21 1 2 Type PARAGRAPH nodes • 
+21 1 3 Type PARAGRAPH nodes  • 
+21 1 4 Type PARAGRAPH nodes New England Region
+21 1 5 Type PARAGRAPH nodes uuse.org
+Number of metaEBlasts 31
+Fetched 233 Event (Happenings) records.
+New Event But Earlier than today February 19, 2025 '2025-02-19'
+No Event Date change but still 2025-03-27 A Spring exhibit 2025-03-27 A Spring exhibit
+update Event  - A Spring exhibit 	||Why? No Date change from eBlast but still
+update Event  - Inclusion and Exclusion 	||Why? Sunday Service Update
+Bulk Updates requested: Import857 2
+Bulk Inserts requested: Import857 0
+Bulk Deletes requested: Import433
+Bulk Inserts requested: Import433 32
+Property CMS Entry updating deveBlast 02-19 eBlast
+looking for 2025-02-23 in upcoming services
+Found matching date for upcoming services
+Bulk Updates requested: Import857 { totalSuccesses: 2, totalFailures: 0 }
+Bulk Updates requested: Import147 1
+there were 32 old Import433 records
+Bulk Updates requested: Import147 { totalSuccesses: 1, totalFailures: 0 }
+Updated Properties CMS  02-19 eBlast 200
+Bulk Inserts requested: Import433 { totalSuccesses: 32, totalFailures: 0 }

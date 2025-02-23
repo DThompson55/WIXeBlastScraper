@@ -11,7 +11,8 @@ const {richContentToText,
 const {
   formatDate, 
   argv, 
-  month,  
+  month,
+  date,
   doNotUpdate,
   eBlastCMS,   
   happeningsCMS,
@@ -45,7 +46,7 @@ console.log("Event CMS is",happeningsCMS);
 // Start Here
 //
 
-const {date,capture} = argv;
+const {capture} = argv;
 const filters = {subject:"eBlast"};
 
 getGMail(filters ,date, capture, (html)=>{
@@ -154,6 +155,9 @@ getGMail(filters ,date, capture, (html)=>{
 	})
 
 function getServices(richcontentR){
+
+// console.log(pretty(richcontentR[6]));
+//   stop();
 
 const serviceNodes = [...richcontentR[3]];  // sunday service is on node 3
 let serviceDate = null;
@@ -333,7 +337,7 @@ async function updateUpcomingServices(services){
                 }} // do not change the long description
             }}];
             replace(newsLetterCMS,update[0]);
-            await writeFile(((doNotUpdate)?'../services2.js':'../services.js'), JSON.stringify(upcomingServices,null,2));
+            await writeFile(((doNotUpdate)?'../services.js':'../services.js'), JSON.stringify(upcomingServices,null,2));
       }
     } catch (error) {
         console.error('Error reading file:', error);
